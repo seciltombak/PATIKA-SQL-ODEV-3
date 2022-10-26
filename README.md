@@ -1,5 +1,7 @@
 # PATIKA-SQL-ODEV-3
 
+Patika Linkim: https://app.patika.dev/seciltombak
+
 SELECT country FROM country   
 WHERE country LIKE 'A%a';  
 ![github](1.png)  
